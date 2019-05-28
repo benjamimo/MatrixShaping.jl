@@ -1,0 +1,7 @@
+name = "MatrixShaping"
+uuid = "2cd20b6a-80c5-11e9-0c43-0931273c4c0a"
+authors = ["ben <b.pegar@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
